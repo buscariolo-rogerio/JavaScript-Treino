@@ -14,10 +14,11 @@ console.log(12 * 'vinicius');
 //STRING:
 window.alert(`YGONA MOURA`);
 window.alert('Turquia');
-window.alert("Vinicius");
+window.alert("Robert");
 
 //SIMBOLOS ESPECIAIS DE STRING:
 console.log("Testando a \nquebra de linha");
 console.log(`Podemos executar qualquer coisa aqui ${console.log("Cachorro quente")}`);
 
+//BOOLEAN
 console.log(15<19)
